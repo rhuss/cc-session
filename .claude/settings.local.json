@@ -10,7 +10,13 @@
       "Read",
       "Edit",
       "Write",
-      "mcp__*"
+      "mcp__*",
+      "WebFetch(domain:docs.rs)",
+      "WebFetch(domain:github.com)",
+      "WebSearch",
+      "WebFetch(domain:opencode.ai)",
+      "WebFetch(domain:deepwiki.com)",
+      "WebFetch(domain:charm.land)"
     ]
   }
 }
